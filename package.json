@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "async": "^1.5.2",
-    "binary-search-tree": "^0.2.6",
+    "binary-search-tree": "github:CKylinMC/node-binary-search-tree"
     "localforage": "^1.5.0",
     "mkdirp": "^0.5.1",
     "underscore": "^1.13.6"
